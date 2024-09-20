@@ -56,4 +56,6 @@ Project Technologies:
 - Dart language
 - Flutter framework with MVC and Provider architecture
 
+Gif
 
+https://github.com/maitrik08/DB_miner/blob/master/gif/GIF.gif
